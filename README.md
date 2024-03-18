@@ -1,16 +1,53 @@
-### Hi there 👋
+# Xiaoxiao (Shawn) Wang
 
-<!--
-**Xiaoxiao-sc/Xiaoxiao-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_PhD student in Management Information Systems (MIS)_ <br>
 
-Here are some ideas to get you started:
+[Email](mailto:wang5021@purdue.edu) /  [GitHub](https://github.com/Xiaoxiao-sc/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏼‍💻 Education
+
+**Purdue University** @ [West Lafayette, Indiana, USA] _(2021-Present)_ <br>
+Ph.D. in Business Administration (Management Information Systems Area)
+Master in Economics
+
+**Fudan University** @ [Shanghai, China] _(2016-2020)_ <br>
+Bachelor in Statistics
+<br><br>
+
+**University of Southern California** @ [Los Angeles, California, USA] _(Fall 2018)_ <br>
+Exchange Student at Marshall School of Business
+    <br><br>
+
+
+## 📌 Working Experience
+
+**Scishang Data Technology** @ [Shanghai, China] _(2020-2021)_<br>
+Data Engineer
+Developed machine learning models to predict tenants rent for large shopping malls.
+  <br><br>
+
+## Working Papers
+
+**Distraction or Engagement? An Empirical Examination of
+California Autonomous Vehicle Testing on Traffic
+Conditions** with [Yingjie Zhang, Jinyang Zheng]
+
+**Status:** Reject and Resubmit at _Productions and Operations Management_
+
+**Can Banning ChatGPT Save User-Generated Q\&A Platforms?** with [Jinyang Zheng]
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750326)
+
+## 🎤 Public Speaking
+    
+### Recent Appearances
+
+- 
+
+- 
+
+**
+  
+## 🏆 Awards
+
+
+
