@@ -7,7 +7,7 @@ _PhD student in Management Information Systems (MIS)_ <br>
 ## 👩🏼‍💻 Education
 
 **Purdue University** @ [West Lafayette, Indiana, USA] _(2021-Present)_ <br>
-Ph.D. in Business Administration (Management Information Systems Area)
+Ph.D. in Business Administration (Management Information Systems Area) <br>
 Master in Economics
 
 **Fudan University** @ [Shanghai, China] _(2016-2020)_ <br>
