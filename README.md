@@ -4,7 +4,7 @@ _PhD student in Management Information Systems (MIS)_ <br>
 
 [Email](mailto:wang5021@purdue.edu) /  [GitHub](https://github.com/Xiaoxiao-sc/)
 
-## 👩🏼‍💻 Education
+## 👨‍💻 Education
 
 **Purdue University** @ [West Lafayette, Indiana, USA] _(2021-Present)_ <br>
 Ph.D. in Business Administration (Management Information Systems Area) <br>
