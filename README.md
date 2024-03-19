@@ -33,7 +33,7 @@ California Autonomous Vehicle Testing on Traffic
 Conditions** with [Yingjie Zhang, Jinyang Zheng]
 
     Status: Reject and Resubmit at Productions and Operations Management
-<br>
+
 
 **Can Banning ChatGPT Save User-Generated Q&A Platforms?** with [Jinyang Zheng]
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750326)
