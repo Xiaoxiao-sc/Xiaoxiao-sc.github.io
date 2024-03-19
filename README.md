@@ -32,7 +32,7 @@ Developed machine learning models to predict tenants rent for large shopping mal
 California Autonomous Vehicle Testing on Traffic
 Conditions** with [Yingjie Zhang, Jinyang Zheng]
 
-    Status: Reject and Resubmit at _Productions and Operations Management_
+    Status: Reject and Resubmit at __Productions and Operations Management__
 <br>
 
 **Can Banning ChatGPT Save User-Generated Q&A Platforms?** with [Jinyang Zheng]
