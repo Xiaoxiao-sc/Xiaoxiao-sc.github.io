@@ -31,8 +31,7 @@ Developed machine learning models to predict tenants rent for large shopping mal
 **Distraction or Engagement? An Empirical Examination of
 California Autonomous Vehicle Testing on Traffic
 Conditions** with [Yingjie Zhang, Jinyang Zheng]
-
-    Status: Reject and Resubmit at __Productions and Operations Management__
+Status: Reject and Resubmit at __Productions and Operations Management__
 <br>
 
 **Can Banning ChatGPT Save User-Generated Q&A Platforms?** with [Jinyang Zheng]
