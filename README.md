@@ -8,7 +8,6 @@ _PhD student in Management Information Systems (MIS)_ <br>
 
 **Purdue University** @ [West Lafayette, Indiana, USA] _(2024)_ <br>
 MS in Economics <br>
-Master in Economics
 
 **Fudan University** @ [Shanghai, China] _(2020)_ <br>
 Bachelor in Statistics
