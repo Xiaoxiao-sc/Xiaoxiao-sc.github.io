@@ -6,11 +6,11 @@ _PhD student in Management Information Systems (MIS)_ <br>
 
 ##  🧑‍🎓Education
 
-**Purdue University** @ [West Lafayette, Indiana, USA] _(2021-Present)_ <br>
-Ph.D. in Business Administration (Management Information Systems Area) <br>
+**Purdue University** @ [West Lafayette, Indiana, USA] _(2024)_ <br>
+MS in Economics <br>
 Master in Economics
 
-**Fudan University** @ [Shanghai, China] _(2016-2020)_ <br>
+**Fudan University** @ [Shanghai, China] _(2020)_ <br>
 Bachelor in Statistics
 <br>
 
@@ -42,8 +42,5 @@ Conditions** with [Yingjie Zhang, Jinyang Zheng]
     2022: CIST, WISE
     2023: CIST
 
-  
-## 🏆 Awards
-Krannert Doctoral Research Fund (2022, 2023, 2024)
 
 
